@@ -14,7 +14,7 @@ Visit **[JavaScript with Divyanshu](https://javascript-with-divyanshu.vercel.app
 
 ### 📫 Let's Connect
 - 💬 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Reach me at **your.email@example.com**
+- 📧 Reach me at **divyanshurathore11@gmail.com**
 
 ---
 
