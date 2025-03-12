@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Divyanshu
 
-<!--
-**div-rathore/div-rathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | JavaScript Enthusiast | UI/UX Explorer
 
-Here are some ideas to get you started:
+I specialize in crafting dynamic web applications using **React**, **Angular**, and **JavaScript**. My focus is on building scalable solutions with clean, efficient code that enhances user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I Do
+- 🛠️ Build engaging React and Angular applications
+- 🧩 Solve real-world development challenges with concise code snippets
+- 🎨 Explore creative UI/UX solutions for seamless experiences
+
+### 🌐 Check out my portfolio
+Visit **[JavaScript with Divyanshu](https://javascript-with-divyanshu.vercel.app/)** to see my projects and ideas in action.
+
+### 📫 Let's Connect
+- 💬 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Reach me at **your.email@example.com**
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
